@@ -1,0 +1,2 @@
+perfmon is in the public domain; it can be used for whatever purpose with absolutely no restrictions.
+http://en.wikipedia.org/wiki/Public_domain
