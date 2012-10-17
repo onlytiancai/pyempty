@@ -11,9 +11,9 @@ setup(name='pyempty',
       author='onlytiancai',
       author_email='onlytiancai@gmail.com',
       packages=['pyempty'],
-      package_dir={'pyempty':'src/pyempty'},
-      package_data={'pyempty':['stuff']},
+      package_dir={'pyempty': 'src/pyempty'},
+      package_data={'pyempty': ['stuff']},
       license="Public domain",
       platforms=["any"],
       url='https://github.com/onlytiancai/pyempty'
-     )
+      )
