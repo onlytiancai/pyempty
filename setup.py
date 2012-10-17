@@ -15,5 +15,4 @@ setup(name='pyempty',
       package_data={'pyempty': ['stuff']},
       license="Public domain",
       platforms=["any"],
-      url='https://github.com/onlytiancai/pyempty'
-      )
+      url='https://github.com/onlytiancai/pyempty')
